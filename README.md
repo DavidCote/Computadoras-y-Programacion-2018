@@ -3,6 +3,6 @@ Nombre: David Cote Soriano
 
 Usuario: DavidCote
 
-Correo: cotedavid34364@gmail.com
+Correo: cotedavid343@gmail.com
 
 Asignatura: Computadoras y Programacion
